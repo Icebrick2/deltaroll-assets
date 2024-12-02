@@ -1,1 +1,4 @@
-# test
+Container for some DELTAROLL assets.
+
+If you're a player:
+"WOW, YOU DIG DEEP! YOU MIGHT NOT NEED THE HELP. BUT IF YOU DO... HMM... IT'S TWO CIPHERS ON TOP OF EACH OTHER. VIGENERE IS ONE.
